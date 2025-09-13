@@ -41,30 +41,30 @@ rating: 4
 
 ## عکس‌ها
 
-![samarra](/assets/img/142-badab_soort/01.jpg)  
+![badab_soort](/assets/img/142-badab_soort/01.jpg)  
 
-![samarra](/assets/img/142-badab_soort/02.jpg)  
+![badab_soort](/assets/img/142-badab_soort/02.jpg)  
 
-![samarra](/assets/img/142-badab_soort/03.jpg)  
+![badab_soort](/assets/img/142-badab_soort/03.jpg)  
 
-![samarra](/assets/img/142-badab_soort/04.jpg)  
+![badab_soort](/assets/img/142-badab_soort/04.jpg)  
 
-![samarra](/assets/img/142-badab_soort/05.jpg)  
+![badab_soort](/assets/img/142-badab_soort/05.jpg)  
 
-![samarra](/assets/img/142-badab_soort/06.jpg)  
+![badab_soort](/assets/img/142-badab_soort/06.jpg)  
 
-![samarra](/assets/img/142-badab_soort/07.jpg)  
+![badab_soort](/assets/img/142-badab_soort/07.jpg)  
 
-![samarra](/assets/img/142-badab_soort/08.jpg)  
+![badab_soort](/assets/img/142-badab_soort/08.jpg)  
 
-![samarra](/assets/img/142-badab_soort/09.jpg)  
+![badab_soort](/assets/img/142-badab_soort/09.jpg)  
 
-![samarra](/assets/img/142-badab_soort/10.jpg)  
+![badab_soort](/assets/img/142-badab_soort/10.jpg)  
 
-![samarra](/assets/img/142-badab_soort/11.jpg)  
+![badab_soort](/assets/img/142-badab_soort/11.jpg)  
 
-![samarra](/assets/img/142-badab_soort/12.jpg)  
+![badab_soort](/assets/img/142-badab_soort/12.jpg)  
 
-![samarra](/assets/img/142-badab_soort/13.jpg)  
+![badab_soort](/assets/img/142-badab_soort/13.jpg)  
 
-![samarra](/assets/img/142-badab_soort/14.jpg)  
+![badab_soort](/assets/img/142-badab_soort/14.jpg)  
