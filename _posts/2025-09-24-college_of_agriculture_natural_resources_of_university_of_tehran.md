@@ -123,8 +123,6 @@ rating: 5
 
 ![college_of_agriculture_natural_resources_of_university_of_tehran](/assets/img/147-college_of_agriculture_natural_resources_of_university_of_tehran/18.jpg)  
 
-### سامرا
-
 ![college_of_agriculture_natural_resources_of_university_of_tehran](/assets/img/147-college_of_agriculture_natural_resources_of_university_of_tehran/19.jpg)  
 
 ![college_of_agriculture_natural_resources_of_university_of_tehran](/assets/img/147-college_of_agriculture_natural_resources_of_university_of_tehran/20.jpg)  
