@@ -78,24 +78,16 @@
                     <a target="_blank" class="nav-link" style="color: #5141b2;" href="https://mhkarami97.ir"><i class="fab fa-snapchat-ghost"></i> دیگر سایت‌ها</a>
                 </li>
 
-                {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
                 <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">خانه</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/tools">راهنما وسایل</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/tools">وسایل</a>
                </li>
 
                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/foods">راهنما تغذیه</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/foods">تغذیه</a>
                </li>
 
                <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}/car">راهنما سفر با ماشین</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/car">سفر با ماشین</a>
                </li>
 
                <li class="nav-item">
@@ -103,15 +95,19 @@
                </li>
 
                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/bicycle">راهنما دوچرخه‌سواری</a>
+                <a class="nav-link" href="{{ site.baseurl }}/bicycle">دوچرخه‌سواری</a>
                </li>
 
                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/aid">راهنما کمک‌های‌اولیه</a>
+                <a class="nav-link" href="{{ site.baseurl }}/aid">کمک‌های‌ اولیه</a>
                </li>
 
                <li class="nav-item">
                 <a class="nav-link" href="https://event.mhkarami97.ir">ایونت‌ها</a>
+               </li>
+
+               <li class="nav-item">
+                <a class="nav-link" href="https://list.mhkarami97.ir">لایف لیست</a>
                </li>
 
                {% include search-lunr.html %}
