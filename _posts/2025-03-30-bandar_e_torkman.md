@@ -24,30 +24,17 @@ rating: 3
 
 ## عکس‌ها
 
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/01.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/02.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/03.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/04.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/05.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/06.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/07.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/08.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/09.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/10.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/11.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/12.jpg)  
-  
-![bandar_e_torkman](/assets/img/113-bandar_e_torkman/13.jpg)  
-  
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/01.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/02.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/03.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/04.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/05.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/06.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/07.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/08.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/09.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/10.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/11.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/12.jpg)
+![bandar_e_torkman](/assets/img/113-bandar_e_torkman/13.jpg)
 ![bandar_e_torkman](/assets/img/113-bandar_e_torkman/14.jpg)  

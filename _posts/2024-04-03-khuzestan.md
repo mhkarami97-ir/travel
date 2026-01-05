@@ -60,142 +60,86 @@ rating: 2.5
 
 ## عکس‌ها
 
-![khuzestan](/assets/img/93-khuzestan/001.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/001.jpg)
 ![khuzestan](/assets/img/93-khuzestan/002.jpg)  
 
 ### ساحل بوشهر
 
-![khuzestan](/assets/img/93-khuzestan/003.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/004.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/005.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/006.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/007.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/008.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/009.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/010.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/011.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/012.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/013.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/014.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/015.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/016.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/017.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/018.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/019.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/020.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/021.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/022.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/023.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/024.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/025.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/026.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/027.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/028.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/003.jpg)
+![khuzestan](/assets/img/93-khuzestan/004.jpg)
+![khuzestan](/assets/img/93-khuzestan/005.jpg)
+![khuzestan](/assets/img/93-khuzestan/006.jpg)
+![khuzestan](/assets/img/93-khuzestan/007.jpg)
+![khuzestan](/assets/img/93-khuzestan/008.jpg)
+![khuzestan](/assets/img/93-khuzestan/009.jpg)
+![khuzestan](/assets/img/93-khuzestan/010.jpg)
+![khuzestan](/assets/img/93-khuzestan/011.jpg)
+![khuzestan](/assets/img/93-khuzestan/012.jpg)
+![khuzestan](/assets/img/93-khuzestan/013.jpg)
+![khuzestan](/assets/img/93-khuzestan/014.jpg)
+![khuzestan](/assets/img/93-khuzestan/015.jpg)
+![khuzestan](/assets/img/93-khuzestan/016.jpg)
+![khuzestan](/assets/img/93-khuzestan/017.jpg)
+![khuzestan](/assets/img/93-khuzestan/018.jpg)
+![khuzestan](/assets/img/93-khuzestan/019.jpg)
+![khuzestan](/assets/img/93-khuzestan/020.jpg)
+![khuzestan](/assets/img/93-khuzestan/021.jpg)
+![khuzestan](/assets/img/93-khuzestan/022.jpg)
+![khuzestan](/assets/img/93-khuzestan/023.jpg)
+![khuzestan](/assets/img/93-khuzestan/024.jpg)
+![khuzestan](/assets/img/93-khuzestan/025.jpg)
+![khuzestan](/assets/img/93-khuzestan/026.jpg)
+![khuzestan](/assets/img/93-khuzestan/027.jpg)
+![khuzestan](/assets/img/93-khuzestan/028.jpg)
 ![khuzestan](/assets/img/93-khuzestan/029.jpg)  
 
 ### نخلستان آبپخش
 
-![khuzestan](/assets/img/93-khuzestan/030.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/031.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/032.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/030.jpg)
+![khuzestan](/assets/img/93-khuzestan/031.jpg)
+![khuzestan](/assets/img/93-khuzestan/032.jpg)
 ![khuzestan](/assets/img/93-khuzestan/033.jpg)  
 
 ### ساحل مسیر
 
-![khuzestan](/assets/img/93-khuzestan/034.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/035.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/034.jpg)
+![khuzestan](/assets/img/93-khuzestan/035.jpg)
 ![khuzestan](/assets/img/93-khuzestan/036.jpg)  
 
 ### بندر امام خمینی
 
-![khuzestan](/assets/img/93-khuzestan/037.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/038.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/039.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/040.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/041.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/042.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/037.jpg)
+![khuzestan](/assets/img/93-khuzestan/038.jpg)
+![khuzestan](/assets/img/93-khuzestan/039.jpg)
+![khuzestan](/assets/img/93-khuzestan/040.jpg)
+![khuzestan](/assets/img/93-khuzestan/041.jpg)
+![khuzestan](/assets/img/93-khuzestan/042.jpg)
 ![khuzestan](/assets/img/93-khuzestan/043.jpg)  
 
 ### تالاب شادگان
 
-![khuzestan](/assets/img/93-khuzestan/044.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/045.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/046.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/047.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/048.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/049.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/050.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/051.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/052.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/053.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/054.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/055.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/056.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/057.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/058.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/059.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/044.jpg)
+![khuzestan](/assets/img/93-khuzestan/045.jpg)
+![khuzestan](/assets/img/93-khuzestan/046.jpg)
+![khuzestan](/assets/img/93-khuzestan/047.jpg)
+![khuzestan](/assets/img/93-khuzestan/048.jpg)
+![khuzestan](/assets/img/93-khuzestan/049.jpg)
+![khuzestan](/assets/img/93-khuzestan/050.jpg)
+![khuzestan](/assets/img/93-khuzestan/051.jpg)
+![khuzestan](/assets/img/93-khuzestan/052.jpg)
+![khuzestan](/assets/img/93-khuzestan/053.jpg)
+![khuzestan](/assets/img/93-khuzestan/054.jpg)
+![khuzestan](/assets/img/93-khuzestan/055.jpg)
+![khuzestan](/assets/img/93-khuzestan/056.jpg)
+![khuzestan](/assets/img/93-khuzestan/057.jpg)
+![khuzestan](/assets/img/93-khuzestan/058.jpg)
+![khuzestan](/assets/img/93-khuzestan/059.jpg)
 ![khuzestan](/assets/img/93-khuzestan/060.jpg)  
 
 ### آبادان و اروندرود
 
-![khuzestan](/assets/img/93-khuzestan/061.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/062.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/061.jpg)
+![khuzestan](/assets/img/93-khuzestan/062.jpg)
 ![khuzestan](/assets/img/93-khuzestan/063.jpg)  
 
 ### خرمشهر و کارون
@@ -204,90 +148,53 @@ rating: 2.5
 
 ### اهواز
 
-![khuzestan](/assets/img/93-khuzestan/065.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/066.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/067.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/068.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/069.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/065.jpg)
+![khuzestan](/assets/img/93-khuzestan/066.jpg)
+![khuzestan](/assets/img/93-khuzestan/067.jpg)
+![khuzestan](/assets/img/93-khuzestan/068.jpg)
+![khuzestan](/assets/img/93-khuzestan/069.jpg)
 ![khuzestan](/assets/img/93-khuzestan/070.jpg)  
 
 ### شوش
 
-![khuzestan](/assets/img/93-khuzestan/071.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/072.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/073.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/074.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/075.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/076.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/071.jpg)
+![khuzestan](/assets/img/93-khuzestan/072.jpg)
+![khuzestan](/assets/img/93-khuzestan/073.jpg)
+![khuzestan](/assets/img/93-khuzestan/074.jpg)
+![khuzestan](/assets/img/93-khuzestan/075.jpg)
+![khuzestan](/assets/img/93-khuzestan/076.jpg)
 ![khuzestan](/assets/img/93-khuzestan/077.jpg)  
 
 ### شهیون
 
-![khuzestan](/assets/img/93-khuzestan/078.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/079.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/080.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/081.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/082.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/083.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/084.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/085.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/086.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/087.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/088.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/089.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/090.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/091.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/092.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/093.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/094.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/095.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/096.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/097.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/078.jpg)
+![khuzestan](/assets/img/93-khuzestan/079.jpg)
+![khuzestan](/assets/img/93-khuzestan/080.jpg)
+![khuzestan](/assets/img/93-khuzestan/081.jpg)
+![khuzestan](/assets/img/93-khuzestan/082.jpg)
+![khuzestan](/assets/img/93-khuzestan/083.jpg)
+![khuzestan](/assets/img/93-khuzestan/084.jpg)
+![khuzestan](/assets/img/93-khuzestan/085.jpg)
+![khuzestan](/assets/img/93-khuzestan/086.jpg)
+![khuzestan](/assets/img/93-khuzestan/087.jpg)
+![khuzestan](/assets/img/93-khuzestan/088.jpg)
+![khuzestan](/assets/img/93-khuzestan/089.jpg)
+![khuzestan](/assets/img/93-khuzestan/090.jpg)
+![khuzestan](/assets/img/93-khuzestan/091.jpg)
+![khuzestan](/assets/img/93-khuzestan/092.jpg)
+![khuzestan](/assets/img/93-khuzestan/093.jpg)
+![khuzestan](/assets/img/93-khuzestan/094.jpg)
+![khuzestan](/assets/img/93-khuzestan/095.jpg)
+![khuzestan](/assets/img/93-khuzestan/096.jpg)
+![khuzestan](/assets/img/93-khuzestan/097.jpg)
 ![khuzestan](/assets/img/93-khuzestan/098.jpg)  
 
 ### دیگر
 
-![khuzestan](/assets/img/93-khuzestan/099.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/100.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/101.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/102.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/103.jpg)  
-
-![khuzestan](/assets/img/93-khuzestan/104.jpg)  
-
+![khuzestan](/assets/img/93-khuzestan/099.jpg)
+![khuzestan](/assets/img/93-khuzestan/100.jpg)
+![khuzestan](/assets/img/93-khuzestan/101.jpg)
+![khuzestan](/assets/img/93-khuzestan/102.jpg)
+![khuzestan](/assets/img/93-khuzestan/103.jpg)
+![khuzestan](/assets/img/93-khuzestan/104.jpg)
 ![khuzestan](/assets/img/93-khuzestan/105.jpg)  

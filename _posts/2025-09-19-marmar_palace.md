@@ -92,6 +92,5 @@ rating: 5
 
 ## عکس‌ها
 
-![marmar_palace](/assets/img/145-marmar_palace/01.jpg)  
-
+![marmar_palace](/assets/img/145-marmar_palace/01.jpg)
 ![marmar_palace](/assets/img/145-marmar_palace/02.jpg)  

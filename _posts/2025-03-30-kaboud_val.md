@@ -27,32 +27,18 @@ rating: 4
 
 ## عکس‌ها
 
-![kaboud_val](/assets/img/115-kaboud/01.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/02.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/03.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/04.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/05.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/06.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/07.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/08.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/09.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/10.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/11.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/12.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/13.jpg)  
-  
-![kaboud_val](/assets/img/115-kaboud/14.jpg)  
-  
+![kaboud_val](/assets/img/115-kaboud/01.jpg)
+![kaboud_val](/assets/img/115-kaboud/02.jpg)
+![kaboud_val](/assets/img/115-kaboud/03.jpg)
+![kaboud_val](/assets/img/115-kaboud/04.jpg)
+![kaboud_val](/assets/img/115-kaboud/05.jpg)
+![kaboud_val](/assets/img/115-kaboud/06.jpg)
+![kaboud_val](/assets/img/115-kaboud/07.jpg)
+![kaboud_val](/assets/img/115-kaboud/08.jpg)
+![kaboud_val](/assets/img/115-kaboud/09.jpg)
+![kaboud_val](/assets/img/115-kaboud/10.jpg)
+![kaboud_val](/assets/img/115-kaboud/11.jpg)
+![kaboud_val](/assets/img/115-kaboud/12.jpg)
+![kaboud_val](/assets/img/115-kaboud/13.jpg)
+![kaboud_val](/assets/img/115-kaboud/14.jpg)
 ![kaboud_val](/assets/img/115-kaboud/15.jpg)  

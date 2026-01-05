@@ -53,30 +53,22 @@ rating: 4
 
 ### جاده چالوس
 
-![daryasar_plain](/assets/img/126-daryasar_plain/01.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/02.jpg)  
-  
+![daryasar_plain](/assets/img/126-daryasar_plain/01.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/02.jpg)
 ![daryasar_plain](/assets/img/126-daryasar_plain/03.jpg)  
 
 ### ساحل تنکابن
   
-![daryasar_plain](/assets/img/126-daryasar_plain/04.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/05.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/06.jpg)  
-  
+![daryasar_plain](/assets/img/126-daryasar_plain/04.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/05.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/06.jpg)
 ![daryasar_plain](/assets/img/126-daryasar_plain/07.jpg)  
 
 ### جنگل دوهزار
   
-![daryasar_plain](/assets/img/126-daryasar_plain/08.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/09.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/10.jpg)  
-  
+![daryasar_plain](/assets/img/126-daryasar_plain/08.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/09.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/10.jpg)
 ![daryasar_plain](/assets/img/126-daryasar_plain/11.jpg)  
 
 ### روستا اسل محله
@@ -85,72 +77,41 @@ rating: 4
 
 ### شروع پیمایش
   
-![daryasar_plain](/assets/img/126-daryasar_plain/13.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/14.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/15.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/16.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/17.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/18.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/19.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/20.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/21.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/22.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/23.jpg)  
-  
+![daryasar_plain](/assets/img/126-daryasar_plain/13.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/14.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/15.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/16.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/17.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/18.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/19.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/20.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/21.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/22.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/23.jpg)
 ![daryasar_plain](/assets/img/126-daryasar_plain/24.jpg)  
 
 ### دشت دریاسر
   
-![daryasar_plain](/assets/img/126-daryasar_plain/25.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/26.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/27.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/28.jpg)  
-
-![daryasar_plain](/assets/img/126-daryasar_plain/29.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/30.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/31.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/32.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/33.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/34.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/35.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/36.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/37.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/38.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/39.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/40.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/41.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/42.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/43.jpg)  
-  
-![daryasar_plain](/assets/img/126-daryasar_plain/44.jpg)  
-  
+![daryasar_plain](/assets/img/126-daryasar_plain/25.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/26.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/27.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/28.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/29.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/30.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/31.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/32.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/33.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/34.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/35.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/36.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/37.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/38.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/39.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/40.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/41.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/42.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/43.jpg)
+![daryasar_plain](/assets/img/126-daryasar_plain/44.jpg)
 ![daryasar_plain](/assets/img/126-daryasar_plain/45.jpg)  
 
 ### جنگل دوهزار

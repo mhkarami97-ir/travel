@@ -28,28 +28,16 @@ rating: 3
 
 ## عکس‌ها
 
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/01.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/02.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/03.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/04.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/05.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/06.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/07.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/08.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/09.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/10.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/11.jpg)  
-  
-![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/12.jpg)  
-  
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/01.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/02.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/03.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/04.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/05.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/06.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/07.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/08.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/09.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/10.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/11.jpg)
+![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/12.jpg)
 ![gonbad_e_kavus](/assets/img/114-gonbad_e_kavus/13.jpg)  

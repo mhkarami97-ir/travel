@@ -106,26 +106,15 @@ rating: 4
 
 ## عکس‌ها
 
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/01.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/02.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/03.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/04.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/05.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/06.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/07.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/08.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/09.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/10.jpg)  
-
-![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/11.jpg)  
-
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/01.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/02.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/03.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/04.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/05.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/06.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/07.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/08.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/09.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/10.jpg)
+![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/11.jpg)
 ![bojaq](/assets/img/146-iran_wildlife_and_nature_museum_dar_abad/12.jpg)  

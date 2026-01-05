@@ -32,24 +32,17 @@ rating: 3.5
 ## عکس‌ها
 
 ### مسیر
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/01.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/02.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/03.jpg)  
-
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/01.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/02.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/03.jpg)
 ![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/04.jpg)  
 
 ### دریاچه الیمانات
 
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/05.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/06.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/07.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/08.jpg)  
-
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/05.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/06.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/07.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/08.jpg)
 ![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/09.jpg)  
 
 ### جنگل لاویج
@@ -58,48 +51,30 @@ rating: 3.5
 
 ### فریدونکنار
 
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/11.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/12.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/13.jpg)  
-
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/11.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/12.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/13.jpg)
 ![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/14.jpg)  
 
 ### پارکینگ
 
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/15.jpg)  
-
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/15.jpg)
 ![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/16.jpg)  
 
 ### مسیر آبشار
 
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/17.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/18.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/19.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/20.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/21.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/22.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/23.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/24.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/25.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/26.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/27.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/28.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/29.jpg)  
-
-![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/30.jpg)  
-
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/17.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/18.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/19.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/20.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/21.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/22.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/23.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/24.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/25.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/26.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/27.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/28.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/29.jpg)
+![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/30.jpg)
 ![tirkan_haft_abshar](/assets/img/100-tirkan_haft_abshar/31.jpg)  

@@ -28,20 +28,12 @@ rating: 3
 
 ## عکس‌ها
 
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/1.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/2.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/3.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/4.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/5.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/6.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/7.jpg)  
-  
-![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/8.jpg)  
-  
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/1.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/2.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/3.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/4.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/5.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/6.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/7.jpg)
+![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/8.jpg)
 ![shirabad_haft_abshar](/assets/img/121-shirabad_haft_abshar/9.jpg)  

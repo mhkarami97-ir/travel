@@ -45,14 +45,9 @@ rating: 3
 
 ## عکس‌ها
 
-![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/1.jpg)  
-
-![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/2.jpg)  
-
-![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/3.jpg)  
-
-![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/4.jpg)  
-
-![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/5.jpg)  
-
+![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/1.jpg)
+![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/2.jpg)
+![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/3.jpg)
+![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/4.jpg)
+![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/5.jpg)
 ![damavand_basaltic_prisms](/assets/img/154-damavand_basaltic_prisms/6.jpg)  

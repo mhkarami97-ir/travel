@@ -27,30 +27,17 @@ rating: 3
 
 ## عکس‌ها
 
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/01.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/02.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/03.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/04.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/05.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/06.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/07.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/08.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/09.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/10.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/11.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/12.jpg)  
-
-![mowrud_waterfall](/assets/img/88-mowrud_waterfall/13.jpg)  
-
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/01.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/02.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/03.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/04.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/05.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/06.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/07.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/08.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/09.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/10.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/11.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/12.jpg)
+![mowrud_waterfall](/assets/img/88-mowrud_waterfall/13.jpg)
 ![mowrud_waterfall](/assets/img/88-mowrud_waterfall/14.jpg)  
