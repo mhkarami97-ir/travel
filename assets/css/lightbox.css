@@ -1,12 +1,13 @@
 .article-post img {
   max-width: 32%;
+  max-height: 165px;
+  margin-bottom: 5px;
   display: inline-block;
 }
 
 @media (max-width:767px) {
     .article-post img {
   max-width: 32%;
-  display: inline-block;
 }
 }
 
