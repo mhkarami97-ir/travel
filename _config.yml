@@ -78,3 +78,10 @@ analytics:
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+site-css:
+  - "/assets/css/github-code.css"
+  - "/assets/css/lightbox.css"
+
+site-js:
+  - "/assets/js/lightbox.js"

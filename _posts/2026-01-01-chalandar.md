@@ -45,100 +45,62 @@ rating: 4
 [آبشار](https://www.google.com/maps/place/Chalandar+Waterfall/@36.5829506,51.6836288,5656m/data=!3m1!1e3!4m15!1m8!3m7!1s0x3f8e94bea2b896d9:0x809d5354367653d4!2sChalandar,+Mazandaran+Province!3b1!8m2!3d36.5844331!4d51.686698!16s%2Fm%2F0yx_bqj!3m5!1s0x3f8eed408cc43543:0x46208d289eed4ab7!8m2!3d36.5626353!4d51.6920236!16s%2Fg%2F120mhxz3?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D)  
 
 ## نکات
-
+این منقطه بر عکس بقیه جاهای شمال، شهر در سمت جنگل ساخته شده است و لب دریا نیست. در نزدیک دریا چند خانه ویلایی وجود دارد.  
+هم دریا و هم جنگل خلوت و زیبا بود و افراد کمی در آنجا حضور داشتند.  
 
 ## عکس‌ها
 
 ### مسیر
 
-![chalandar](/assets/img/155-chalandar/01.jpg)  
-
-![chalandar](/assets/img/155-chalandar/02.jpg)  
-
-![chalandar](/assets/img/155-chalandar/03.jpg)  
-
-![chalandar](/assets/img/155-chalandar/04.jpg)  
-
-![chalandar](/assets/img/155-chalandar/05.jpg)  
+![chalandar](/assets/img/155-chalandar/01.jpg)
+![chalandar](/assets/img/155-chalandar/02.jpg)
+![chalandar](/assets/img/155-chalandar/03.jpg)
+![chalandar](/assets/img/155-chalandar/04.jpg)
+![chalandar](/assets/img/155-chalandar/05.jpg)
 
 ### جنگل
 
-![chalandar](/assets/img/155-chalandar/06.jpg)  
-
-![chalandar](/assets/img/155-chalandar/07.jpg)  
-
-![chalandar](/assets/img/155-chalandar/08.jpg)  
-
-![chalandar](/assets/img/155-chalandar/09.jpg)  
-
-![chalandar](/assets/img/155-chalandar/10.jpg)  
-
-![chalandar](/assets/img/155-chalandar/11.jpg)  
-
-![chalandar](/assets/img/155-chalandar/12.jpg)  
-
-![chalandar](/assets/img/155-chalandar/13.jpg)  
-
-![chalandar](/assets/img/155-chalandar/14.jpg)  
-
-![chalandar](/assets/img/155-chalandar/15.jpg)  
-
-![chalandar](/assets/img/155-chalandar/16.jpg)  
-
-![chalandar](/assets/img/155-chalandar/17.jpg)  
-
-![chalandar](/assets/img/155-chalandar/18.jpg)  
-
-![chalandar](/assets/img/155-chalandar/19.jpg)  
-
-![chalandar](/assets/img/155-chalandar/20.jpg)  
-
-![chalandar](/assets/img/155-chalandar/21.jpg)  
-
-![chalandar](/assets/img/155-chalandar/22.jpg)  
-
-![chalandar](/assets/img/155-chalandar/23.jpg)  
-
-![chalandar](/assets/img/155-chalandar/24.jpg)  
-
-![chalandar](/assets/img/155-chalandar/25.jpg)  
-
-![chalandar](/assets/img/155-chalandar/26.jpg)  
-
-![chalandar](/assets/img/155-chalandar/27.jpg)  
-
-![chalandar](/assets/img/155-chalandar/28.jpg)  
-
-![chalandar](/assets/img/155-chalandar/29.jpg)  
-
-![chalandar](/assets/img/155-chalandar/30.jpg)  
+![chalandar](/assets/img/155-chalandar/06.jpg)
+![chalandar](/assets/img/155-chalandar/07.jpg)
+![chalandar](/assets/img/155-chalandar/08.jpg)
+![chalandar](/assets/img/155-chalandar/09.jpg)
+![chalandar](/assets/img/155-chalandar/10.jpg)
+![chalandar](/assets/img/155-chalandar/11.jpg)
+![chalandar](/assets/img/155-chalandar/12.jpg)
+![chalandar](/assets/img/155-chalandar/13.jpg)
+![chalandar](/assets/img/155-chalandar/14.jpg)
+![chalandar](/assets/img/155-chalandar/15.jpg)
+![chalandar](/assets/img/155-chalandar/16.jpg)
+![chalandar](/assets/img/155-chalandar/17.jpg)
+![chalandar](/assets/img/155-chalandar/18.jpg)
+![chalandar](/assets/img/155-chalandar/19.jpg)
+![chalandar](/assets/img/155-chalandar/20.jpg)
+![chalandar](/assets/img/155-chalandar/21.jpg)
+![chalandar](/assets/img/155-chalandar/22.jpg)
+![chalandar](/assets/img/155-chalandar/23.jpg)
+![chalandar](/assets/img/155-chalandar/24.jpg)
+![chalandar](/assets/img/155-chalandar/25.jpg)
+![chalandar](/assets/img/155-chalandar/26.jpg)
+![chalandar](/assets/img/155-chalandar/27.jpg)
+![chalandar](/assets/img/155-chalandar/28.jpg)
+![chalandar](/assets/img/155-chalandar/29.jpg)
+![chalandar](/assets/img/155-chalandar/30.jpg)
 
 ### دریا
 
-![chalandar](/assets/img/155-chalandar/31.jpg)  
-
-![chalandar](/assets/img/155-chalandar/32.jpg)  
-
-![chalandar](/assets/img/155-chalandar/33.jpg)  
+![chalandar](/assets/img/155-chalandar/31.jpg)
+![chalandar](/assets/img/155-chalandar/32.jpg)
+![chalandar](/assets/img/155-chalandar/33.jpg)
 
 ### مسیر
 
-![chalandar](/assets/img/155-chalandar/34.jpg)  
-
-![chalandar](/assets/img/155-chalandar/35.jpg)  
-
-![chalandar](/assets/img/155-chalandar/36.jpg)  
-
-![chalandar](/assets/img/155-chalandar/37.jpg)  
-
-![chalandar](/assets/img/155-chalandar/38.jpg)  
-
-![chalandar](/assets/img/155-chalandar/39.jpg)  
-
-![chalandar](/assets/img/155-chalandar/40.jpg)  
-
-![chalandar](/assets/img/155-chalandar/41.jpg)  
-
-![chalandar](/assets/img/155-chalandar/42.jpg)  
-
+![chalandar](/assets/img/155-chalandar/34.jpg)
+![chalandar](/assets/img/155-chalandar/35.jpg)
+![chalandar](/assets/img/155-chalandar/36.jpg)
+![chalandar](/assets/img/155-chalandar/37.jpg)
+![chalandar](/assets/img/155-chalandar/38.jpg)
+![chalandar](/assets/img/155-chalandar/39.jpg)
+![chalandar](/assets/img/155-chalandar/40.jpg)
+![chalandar](/assets/img/155-chalandar/41.jpg)
+![chalandar](/assets/img/155-chalandar/42.jpg)
 ![chalandar](/assets/img/155-chalandar/43.jpg)  
