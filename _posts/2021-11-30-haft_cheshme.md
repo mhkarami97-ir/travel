@@ -23,103 +23,42 @@ rating: 3
 در زمان های قدیم هیچ درب ورودی در این منطقه وجود نداشت، اما اکنون که به این منطقه رفتیم با درب زیر روبرو شدیم، البته این درب باز بوده و کسی نیز جلوی افراد را نمی‌گرفت.
 برای رفتن به این نقطه کافی است مسیر سربالایی به سمت ارنگه را بروید و ماشین خود را در همان پیچ اول، کنار ساختمان سفید رنگ پارک کنید و سپس مسیر خاکی کوچک کنار آن را به سمت پایین بروید.  
 
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/02.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/03.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/04.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/05.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/06.jpg" alt="haft_cheshme" />
-</p>
+![haft_cheshme](/assets/img/22-haft_cheshme/02.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/03.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/04.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/05.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/06.jpg)
 
 بعد از چند صد متر پیمایش به رودخانه می‌رسید که باید از آن عبور کنید، در سالهای قبل بر روی رودخانه پل کوچکی وجود داشت که ظاهرا خراب شده است. پس باید از داخل رودخانه عبور کنید، هرچند سطح آب کم است و به راحتی می‌توانید از آن عبور کنید.  
 
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/07.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/08.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/09.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/10.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/11.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/12.jpg" alt="haft_cheshme" />
-</p>
+![haft_cheshme](/assets/img/22-haft_cheshme/07.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/08.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/09.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/10.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/11.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/12.jpg)
 
 مسیر رسیدن به چشمه ها کمتر از 2 کیلومتر است و بعد از تقریبا 30 دقیقه پیاده روی سبک به آن می‌رسید.  
 در این نقطه چشمه های زیادی در بالا وجود دارد که آب آنها به داخل رودخانه می‌ریزد و محل مناسب با ارتفاع تقریبا نیم متری از آب را درست می‌کند که در فصل های گرم سال می‌توانید در آن شنا کنید.  
 آب این چشمه ها بسیار تمیز، شفاف و خنک است که می‌توانید از آن بنوشید.  
 
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/13.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/14.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/15.jpg" alt="haft_cheshme" />
-</p>
+![haft_cheshme](/assets/img/22-haft_cheshme/13.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/14.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/15.jpg)
 
 بعد از چشمه ها یک آبشار بلند نیز وجود دارد که برای رسیدن به آن باید از مسیر کوچک سمت چپ استفاده کنید و از لبه کوه عبور کنید تا به آن برسید.  
 
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/16.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/17.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/18.jpg" alt="haft_cheshme" />
-</p>
+![haft_cheshme](/assets/img/22-haft_cheshme/16.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/17.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/18.jpg)
 
 این آبشار نیز حوضچه ای با عمق مناسب برای شنا دارد و ارتفاع خود آبشار نیز تقریبا زیاد است.  
 
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/19.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/20.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/21.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/22.jpg" alt="haft_cheshme" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/22-haft_cheshme/23.jpg" alt="haft_cheshme" />
-</p>
+![haft_cheshme](/assets/img/22-haft_cheshme/19.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/20.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/21.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/22.jpg)
+![haft_cheshme](/assets/img/22-haft_cheshme/23.jpg)
 
 ---
 ---

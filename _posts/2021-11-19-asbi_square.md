@@ -20,53 +20,18 @@ rating: 3
 در اطراف این میدان پارک، پاساژ و رستوران های زیادی وجود دارد که افراد برای خرید و صرف غذا به این منطقه می‌آیند.  
  
 
-<p align="center">
-  <img src="/assets/img/19-asbi_square/02.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/03.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/04.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/05.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/06.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/07.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/08.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/09.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/10.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/11.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/12.jpg" alt="asbi_square" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/19-asbi_square/13.jpg" alt="asbi_square" />
-</p>
+![asbi_square](/assets/img/19-asbi_square/02.jpg)
+![asbi_square](/assets/img/19-asbi_square/03.jpg)
+![asbi_square](/assets/img/19-asbi_square/04.jpg)
+![asbi_square](/assets/img/19-asbi_square/05.jpg)
+![asbi_square](/assets/img/19-asbi_square/06.jpg)
+![asbi_square](/assets/img/19-asbi_square/07.jpg)
+![asbi_square](/assets/img/19-asbi_square/08.jpg)
+![asbi_square](/assets/img/19-asbi_square/09.jpg)
+![asbi_square](/assets/img/19-asbi_square/10.jpg)
+![asbi_square](/assets/img/19-asbi_square/11.jpg)
+![asbi_square](/assets/img/19-asbi_square/12.jpg)
+![asbi_square](/assets/img/19-asbi_square/13.jpg)
 
 ---
 ---

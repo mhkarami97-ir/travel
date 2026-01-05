@@ -10,9 +10,9 @@
     const overlay = document.createElement('div');
     overlay.className = 'lightbox-overlay';
     overlay.innerHTML = `
-      <button class="lightbox-prev" aria-label="Previous image">&lt;</button>
+      <button class="lightbox-prev" aria-label="Previous image">&gt;</button>
       <img class="lightbox-image" src="" alt="">
-      <button class="lightbox-next" aria-label="Next image">&gt;</button>
+      <button class="lightbox-next" aria-label="Next image">&lt;</button>
       <button class="lightbox-close" aria-label="Close">&times;</button>
     `;
     document.body.appendChild(overlay);

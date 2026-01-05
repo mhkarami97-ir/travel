@@ -20,194 +20,95 @@ rating: 4
 برای رفتن به سفر جنوب که از بندرعباس شروع شده و به جزایر هرمز، لارک، هنگام و قشم ختم می‌شد، در بهمن ماه با قطار به سوی بندرعباس حرکت کردیم.  
 برای خرید بلیط نیز چالش‌های مختلفی داشتیم که در زمان باز شدن سایت تمام قطار پر بود و ما 2 روز قبل از حرکت توانستیم بلیط قطار را بخریم.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/01.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/01.jpg)
 
 حرکت از تهران با قطار به بندرعباس تقریبا 20 ساعت زمان نیاز دارد که ما ا حرکت در 12:15 چهارشنبه در ساعت 10:00 روز بعد به بندرعباس رسیدیم.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/02.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/03.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/04.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/02.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/03.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/04.jpg)
 
 در داخل قطار نیز 2 فرد جنوبی را در کوپه خود ملاقات کردیم که برای افراد دیگه قطار طرح حنا می‌زدند که مدتی با آنها همنشین شدیم و صحبت کردیم.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/05.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/06.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/05.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/06.jpg)
 
 بعد از رسیدن به بندرعباس با اسنپ به سمت اسکله حرکت کردیم تا کوله‌های خود را به امانتی آن بسپاریم تا راحت‌تر بتوانیم شهر را بگردیم.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/07.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/08.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/07.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/08.jpg)
 
 در بندرعباس مسجدهای زیادی وجود دارد که بیشتر آنها قدیمی هستند که تعدادی از آنها برای اهل تسنن و تعدادی برای اهل شیعه هستند.  
 متاسفانه در بندرعباس افراد فقیر زیادی وجود دارند که در نقاط مختلف از شما تقاضای کمک می‌کنند.  
 بطور مثال در بازار درخواست خرید لباس، در فروشگاه درخواست خرید اغذیه و در نقاط مختلف شهر تقاضای پول می‌کنند.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/09.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/09.jpg)
 
 اولین محلی که به دیدن آن رفتیم و در نزدیکی همان اسکله واقع شده است، `معبد بودایی‌ها` بود.  
 برای مشاهده این محل از اسکله می‌توانید پیاده نیز بروید و بسیار نزدیک است.  
 با توجه به خصوصی بودن این محل زمان باز بودن خود معبد ممکن است از ساعت 5 عصر به بعد باشد، هرچند محیط آن در همه ساعات باز است.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/10.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/11.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/12.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/10.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/11.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/12.jpg)
 
 محل بعد که به دیدن آن رفتیم `مسجد سنی‌ها` بود که در زمانی غیر از نماز بسته است، پس ما از بیرون آن را تماشا کردیم و به سمت حمام `حمام گله داری` که نزدیکی آن بود رفتیم.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/13.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/14.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/15.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/13.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/14.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/15.jpg)
 
 متاسفانه در زمان ترمیم این حمام بخش زیادی از آن تخریب شده است که از زیبایی آن کاسته است.  
 نکته زیبای این حمام عکس بالا است که دو هواکش با توجه به زاویه دید شما شکل قلب یا دایره پیدا می‌کنند.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/16.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/17.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/18.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/16.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/17.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/18.jpg)
 
 با توجه به نزدیک شدن به اذان ظهر مسجدی که در بالا گفته شد باز شده بود که ما به دیدن آن رفتیم.  
 از تفاوت این مسجد با مسجد شیعه‌ها، وجود داشتن موکت بین بخشی که افراد وضو می‌گیرند و درب ورودی مسجد بود تا افراد بدون نیاز به کفش بتوانند آن را طی کنند.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/19.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/19.jpg)
 
 سپس به سمت `مسجد گله داری` حرکت کردیم تا از آن نیز دیدن کنیم که در عکس‌های زیر آن را مشاهده می‌کنید.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/20.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/21.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/22.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/23.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/24.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/25.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/26.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/20.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/21.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/22.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/23.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/24.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/25.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/26.jpg)
 
 با توجه به نزدیک شدن به زمان ناهار به سمت `بازار ماهی فروشان` رفتیم تا در ابتدا از آن بازدید کنیم و سپس در رستوران `مهربان بانو` که تعریف آن را شنیده بودیم و گفته بودند که خاله او در رامسر نیز رستوران دارد رفتیم.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/27.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/27.jpg)
 
 در بازار قدیم ماهی فروشان افراد ماهی‌ها را همان در کنار خیابان می‌فروشند و در همانجا پاک می‌کنند. زنان نیز در قسمتی مشغول به پاک کردن میگوها هستند.  
 در این محل بوی ماهی بسیار زیاد است که ممکن است تمام افراد نتوانند آن را تحمل کنند.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/28.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/29.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/30.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/31.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/28.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/29.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/30.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/31.jpg)
 
 در نهایت در رستوران `کوسه ماهی` را به عنوان ناهار خوردیم که بسیار خوش‌مزه بود.  
 قیمت آن نیز برای یک پرس 150 هزار تومان بود.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/32.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/33.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/32.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/33.jpg)
 
 بعد از صرف ناهار به سمت `ساحل سورو` حرکت کردیم که در مسیر آن `بازار ماهی فروشان جدید` وجود دارد که سرپوشیده است و نسبت به بازار قدیم امکانات بیشتری دارد.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/34.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/35.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/36.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/34.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/35.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/36.jpg)
 
 در نهایت در عصر به سمت اسکله حرکت کردیم تا قبل از تاریکی به سمت هرمز حرکت کنیم تا بتوانیم غروب را نیز از روی اتوبوس دریایی مشاهده کنیم.  
 قیمت اتوبوس دریایی از بندرعباس به سمت هرمز نیز 76 هزار تومان بود که تقریبا 40 دقیقه رسیدن به مقصد طول می‌کشد.  
 
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/37.jpg" alt="bandar_abbas" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/35-bandar_abbas/38.jpg" alt="bandar_abbas" />
-</p>
+![bandar_abbas](/assets/img/35-bandar_abbas/37.jpg)
+![bandar_abbas](/assets/img/35-bandar_abbas/38.jpg)
 
 ---
 ---

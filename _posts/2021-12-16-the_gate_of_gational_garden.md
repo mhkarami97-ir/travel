@@ -38,174 +38,58 @@ rating: 4
 در یکی از روزهای پنجشنبه، آذر ماه توسط مترو به سمت این نقطه حرکت کردیم و در ایستگاه `امام خمینی` از مترو پیاده شدیم.  
 پس از تقریبا 200 متر پیاده روی و عبور از کنار موزه ارتباطات که در این زمان بسته بود، تقریبا در ساعت 9 صبح به سر در باغ ملی رسیدیم.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/106.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/105.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/106.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/105.jpg)
 
 بیشتر ساختمان‌های داخل این بخش توسط سازمان‌های مختلف مانند وزارت خارجه در حال استفاده بود و نمی‌شد از داخل آنها بازدید کرد و فقط اجازه دیدن نمای بیرونی آنها وجود داشت که آنها را در عکس‌های زیر مشاهده می‌کنید.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/104.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/103.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/102.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/101.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/100.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/099.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/098.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/097.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/096.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/095.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/094.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/093.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/092.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/091.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/104.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/103.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/102.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/101.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/100.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/099.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/098.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/097.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/096.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/095.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/094.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/093.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/092.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/091.jpg)
 
 `موزه ملک` بخشی بود که اجازه بازدید برای عموم وجود داشت که البته ساعت باز شدن آن 10 صبح بود و ما 1 ساعت را در محوطه میدان گشتیم تا باز شود.  
 حیاط بیرون این موزه نیز زیبا است که عکس‌های آن را در بخش زیر مشاهده می‌کنید.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/090.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/089.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/088.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/087.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/086.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/085.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/084.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/083.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/082.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/081.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/080.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/090.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/089.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/088.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/087.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/086.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/085.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/084.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/083.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/082.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/081.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/080.jpg)
 
 محوطه موزه هم بخش‌هایی برای بازدید و هم بخشی برای افراد کتاب‌خوان برای مطالعه کتاب دارد که ما فقط بخش‌های قابل بازدید آن را مشاهده کردیم.  
 در درب ورود این موزه کمدهای برای قرار دادن وسایل و کوله وجود دارد که می‌توانید وسایل خود را در آن قرار دهید.  
 همچنین مبلغی برای ورود به این موزه دریافت نمی‌شود.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/079.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/078.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/077.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/076.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/075.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/074.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/073.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/072.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/071.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/070.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/069.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/068.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/067.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/079.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/078.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/077.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/076.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/075.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/074.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/073.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/072.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/071.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/070.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/069.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/068.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/067.jpg)
 
 بعد از بازدید از موزه ملک به سمت موزه ملی ایران حرکت کردیم تا از آن نیز بازدید کنیم، این بخش دارای 2 موزه ایران کهن و اسلامی است که با یک بلیط 10 هزار تومانی می‌توانید از هر دو بازدید کنید.  
 این موزه نیز دارای قفسه‌هایی برای قرار دادن وسایل اضافه است.  
@@ -214,285 +98,95 @@ rating: 4
 هر قطعه دارای توضیح مختصری است، البته بودن یک شخص وارد بسیار کمک کننده است، در زمان رفتن ما به این موزه یک استاد تاریخ دانشگاه در این محل بود که 3 شاگرد خود را برای بازدید به این موزه آورده بود که ما همراه آنها شدیم و بسیار از گفته‌های او استفاده کردیم.  
 بصورت خلاصه بیشتر موارد گفته شده در کتاب‌های تاریخ که قبلا بخصوص در دوران مدرسه خوانده بودم اشتباه بود که در این محل و توسط استاد گفته شده به آنها پی بردم.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/066.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/065.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/064.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/063.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/062.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/061.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/060.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/059.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/058.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/057.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/056.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/055.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/054.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/053.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/052.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/066.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/065.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/064.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/063.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/062.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/061.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/060.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/059.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/058.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/057.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/056.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/055.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/054.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/053.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/052.jpg)
 
 بعد از بازدید از بخش کهن، به بخش اسلامی رفتیم که شامل موارد بعد از دولت ساسانی بود را مشاهده کنیم.  
 در این بخش فردی برای توضیح نبود و ما نیز به علت خستگی کمی سریعتر آن را بازدید کردیم.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/051.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/050.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/049.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/048.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/047.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/033.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/051.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/050.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/049.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/048.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/047.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/033.jpg)
 
 در این موزه بخشی نیز وجود دارد که مردان نمکی زنجان را در آن قرار داده‌اند.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/046.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/046.jpg)
 
 همچنین یک بخش موقت که اشیا آن از آلمان آمده بودند نیز در این موزه وجود داشت.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/045.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/045.jpg)
 
 سپس به سمت `پارک شهر` حرکت کردیم تا محلی را برای صرف ناهار پیدا کنیم، خود این پارک نیز دارای بخش‌های مختلف و موزه نیز بود که البته موزه آن بسته بود.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/044.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/043.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/042.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/041.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/040.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/039.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/037.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/036.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/035.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/034.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/044.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/043.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/042.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/041.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/040.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/039.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/037.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/036.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/035.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/034.jpg)
 
 ناهار خود را نیز در خیابانی با کف آجری که در اطراف آن غذاخوری های زیادی بود، در کنار کیوسک تلفن زیر صرف کردیم.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/038.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/038.jpg)
 
 سپس به سمت `کاخ گلستان` که نزدیکی این محل بود حرکت کردیم تا از آن نیز بازدید کنیم، برای رسیدن به این نقطه نیز از کنار ساختمان‌های دولتی بزرگی عبور کردیم که دارای زیبایی خاص خود بودند.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/032.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/032.jpg)
 
 کاخ گلستان دارای موزه‌های مختلف است که مبلغ ورودی هر کدام تفاوت دارد و اگر بخواهید تمام آنها را مشاهده کنید باید مبلغ 46 هزار تومان بپردازید.  
 هر کدام از موزه‌ها دارای توضیحات متنی و همچنین فردی برای پرسیدن سوال‌های پیش آمده است که می‌توانید سوال‌های تاریخی خود را از آنها بپرسید.  
 
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/031.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/030.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/029.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/028.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/027.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/026.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/025.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/024.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/023.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/022.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/021.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/020.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/019.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/018.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/017.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/016.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/015.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/014.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/013.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/012.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/011.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/010.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/009.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/008.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/007.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/006.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/005.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/004.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/003.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/002.jpg" alt="the_gate_of_gational_garden" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/27-the_gate_of_gational_garden/001.jpg" alt="the_gate_of_gational_garden" />
-</p>
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/031.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/030.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/029.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/028.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/027.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/026.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/025.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/024.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/023.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/022.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/021.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/020.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/019.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/018.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/017.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/016.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/015.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/014.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/013.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/012.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/011.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/010.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/009.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/008.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/007.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/006.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/005.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/004.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/003.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/002.jpg)
+![the_gate_of_gational_garden](/assets/img/27-the_gate_of_gational_garden/001.jpg)
 
 ---
 ---

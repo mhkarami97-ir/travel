@@ -19,124 +19,44 @@ rating: 4
 مسیر دوچرخه یک دور کامل دور دریاچه می‌زند و به مسیر دوچرخه‌سواری پارک چیتگر که مطلب آن در سفرنامه‌های قبلی آمده بود نیز راه دارد.  
 تردد دوچرخه در مسیر دور دریاچه که افراد پیاده از آن استفاده می‌کنند ممنوع است و باید از مسیر دوچرخه‌سواری استفاده کنید، هرچند در بعضی نقاط می‌توانید وارد این مسیر بشوید.  
 
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/02.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/03.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/04.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/05.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/06.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/07.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/08.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/09.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/10.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/11.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/12.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/13.jpg" alt="chitgar_lake" />
-</p>
+![chitgar_lake](/assets/img/23-chitgar_lake/02.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/03.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/04.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/05.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/06.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/07.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/08.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/09.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/10.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/11.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/12.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/13.jpg)
 
 در نقاط مختلف این مسیر کیوسک‌های اجاره دوچرخه وجود دارد که اگر دوچرخه نداشتید می‌توانید از آنها استفاده کنید.  
 
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/14.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/15.jpg" alt="chitgar_lake" />
-</p>
+![chitgar_lake](/assets/img/23-chitgar_lake/14.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/15.jpg)
 
 در ورودی شمالی این دریاچه یک پارک به اسم `باغ راز هستی` وجود دارد که البته ورود دوچرخه در حالت سواره به آن ممنوع است.  
 از انتهای این باغ می‌توانید وارد پارک چیتگر شوید.  
 
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/16.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/17.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/18.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/19.jpg" alt="chitgar_lake" />
-</p>
+![chitgar_lake](/assets/img/23-chitgar_lake/16.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/17.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/18.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/19.jpg)
 
 پوشش گیاهی این باغ زیبا و جالب است، همچنین در داخل آن چند حیوان مانند شتر، آهو و لاما نگهداری می‌شود.  
 
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/20.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/21.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/22.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/23.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/24.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/25.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/26.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/27.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/28.jpg" alt="chitgar_lake" />
-</p>
-
-<p align="center">
-  <img src="/assets/img/23-chitgar_lake/29.jpg" alt="chitgar_lake" />
-</p>
+![chitgar_lake](/assets/img/23-chitgar_lake/20.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/21.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/22.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/23.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/24.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/25.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/26.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/27.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/28.jpg)
+![chitgar_lake](/assets/img/23-chitgar_lake/29.jpg)
 
 ---
 ---

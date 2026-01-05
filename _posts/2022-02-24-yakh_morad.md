@@ -22,131 +22,109 @@ rating: 4
 برای رفتن به این منطقه در 7 صبح یکی از روزهای اوایل اسفند ماه از اول جاده چالوس حرکت کردیم.  
 تقریبا در ساعت 8:30 به این منطقه رسیدیم و ماشین‌ها را در اول مسیر روستای `کهنه ده` پارک کردیم زیرا ادامه مسیر یخ زده بود و امکان رفتن با ماشین وجود نداشت.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/01.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/01.jpg)
 
 برای رسیدن به این روستا نیز کافی است کمی بعد از گچسر و از کنار `نون و ماست` به سمت چپ بپیچید که بعد از 4 کیلومتر به این روستا می‌رسید.  
 البته راه این منطقه در نقاطی خاکی است و چاله‌های آب و گل نیز در نقاطی وجود دارد که مسیر را کمی سخت می‌کند.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/02.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/02.jpg)
 
 تمام منطقه پوشیده از برف است که در زمان رفتن ما به این منطقه ارتفاع آن `نیم متر` می‌شد.  
 پس از روستای کهنه ده کافی است 600 متر جاده را ادامه دهید تا به پل ماشین رو که از روی رودخانه رد می‌شود برسید.  
 در این نقطه دریچه غار در کوه مقابل شما و در سمت چپ است که با چند صد متر پیمایش به آن می‌رسید.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/03.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/04.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/05.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/07.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/03.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/04.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/05.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/07.jpg)
 
 در ورودی غار تابلو زیر وجود دارد، در این نقطه باید دقت کنید که راه اشتباه را نروید، در همین دهانه که تابلو وجود دارد، مسیر سمت راست بن‌بست است. مسیر سمت چپ نیز به یک راه باریک می‌رسد که در انتها دوباره از کوه خارج می‌شود، البته در مسیر چپ یک مسیر با شیب زیاد به پایین نیز وجود دارد که آن نیز بن‌بست است.  
 راه اصلی همان راه وسط و در بالای سنگ‌ها است که در عکس بعدی مشاهده می‌کنید.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/06.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/06.jpg)
 
 راه اصلی ورودی غار بالای این سنگ‌ها است:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/26.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/26.jpg)
 
 راه سمت چپ در انتها از این نقطه خارج می‌شود:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/08.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/08.jpg)
 
 دو عکس زیر راه‌های اشتباه هستند، بصورت کلی راه اصلی نیازی به سینه خیز رفتن و یا چهارزانو رفتن ندارد.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/09.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/10.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/09.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/10.jpg)
 
 هنگامی که به بالا سنگ‌های گفته شده رسیدید، سمت چپ شما یک گودال، در وسط یک راهرو که نیاز به چهارزانو رفتن و در سمت راست مسیر بزرگ وجود دارد.  
 مسیر مستقیم بن بست است و شما باید مسیر چپ را بروید.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/11.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/11.jpg)
 
 بعد از رفتن از مسیر سمت راست به یک چوب بزرگ می‌رسید که باید از روی آن رد شوید که در کلیپ آخر گزارش می‌توانید آن را مشاهده کنید.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/12.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/12.jpg)
 
 بعد از رد کردن چوب گفته شده به قندیل‌های یخی می‌رسید.  
 در این تالار دو مسیر راست و چپ وجود دارد که مسیر اصلی سمت راست است و در سمت چپ به بن بست می‌رسید.  
 از این نقطه به بعد تعداد قندیل‌ها بیشتر می‌شود و تا 2 تالار دیگر نیز ادامه پیدا می‌کند.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/13.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/14.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/15.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/16.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/17.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/18.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/19.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/20.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/21.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/22.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/23.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/24.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/13.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/14.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/15.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/16.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/17.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/18.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/19.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/20.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/21.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/22.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/23.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/24.jpg)
 
 در انتها تالار سوم شیب به سمت پایین بسیار زیاد می‌شود و دیگر ادامه دادن مسیر بدون تجهیزات از این نقطه وجود ندارد.  
 در رفتن به این منطقه لطفا قندیل‌ها را نکنید و سعی کنید به آنها برخورد نکنید، زیرا قندیل‌ها بسیار شکننده هستند.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/25.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/25.jpg)
 
 عمق برف در این منطقه:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/27.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/28.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/29.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/27.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/28.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/29.jpg)
 
 پل ماشین‌رو گفته شده:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/30.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/30.jpg)
 
 روستای کهنه‌ده:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/31.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/32.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/33.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/31.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/32.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/33.jpg)
 
 در انتها در ساعت 12 برای صرف ناهار به داخل روستای کهنه ده رفتیم و پس از خوردن ناهار شروع به برف‌بازی و ساخت قلعه برفی کردیم.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/34.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/35.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/36.jpg" alt="yakh_morad" /></p>
-
-<p align="center"><img src="/assets/img/40-yakh_morad/37.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/34.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/35.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/36.jpg)
+![yakh_morad](/assets/img/40-yakh_morad/37.jpg)
 
 قسمتی از مسیر که کمی خراب بود:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/38.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/38.jpg)
 
 در انتها ماشین به این صورت درآمده بود :)  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/39.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/39.jpg)
 
 بستی فروشی نون‌و‌ماست که در ورودی اول مسیر قرار گرفته است:  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/40.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/40.jpg)
 
 سد کرج در زمان کم‌آبی. من تا کنون سد را تا این مقدار کم آب ندیده بودم که نشان از کم‌آبی و خشک‌سالی زیاد در منطقه دارد.  
 
-<p align="center"><img src="/assets/img/40-yakh_morad/41.jpg" alt="yakh_morad" /></p>
+![yakh_morad](/assets/img/40-yakh_morad/41.jpg)
 
 ---
 ---
