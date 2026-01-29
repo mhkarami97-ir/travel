@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آبشار چلندر"
 description: "چلندر"
-author: mhkarami97
 categories: [طبیعت]
 tags: [آبشار, جنگل, دریا, مازندران]
-image: assets/img/155-chalandar/43.jpg
-featured: true
-hidden: true
+image: /assets/img/155-chalandar/43.jpg
 rating: 4
 ---
 

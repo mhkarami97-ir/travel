@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آبشار لوه"
-author: mhkarami97
 categories: [آبشار]
 tags: [آبشار, جنگل, گلستان, رودخانه]
-image: assets/img/122-lowe_waterfall/04.jpg
+image: /assets/img/122-lowe_waterfall/04.jpg
 description: "آبشار لوه"
-featured: true
-hidden: true
 rating: 2
 ---
 

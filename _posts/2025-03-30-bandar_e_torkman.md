@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "بندر ترکمن"
-author: mhkarami97
 categories: [خرید]
 tags: [خرید, بندر, گلستان, شهر]
-image: assets/img/113-bandar_e_torkman/01.jpg
+image: /assets/img/113-bandar_e_torkman/01.jpg
 description: "بندر ترکمن"
-featured: true
-hidden: true
 rating: 3
 ---
 

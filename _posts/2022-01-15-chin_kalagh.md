@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "قله چین کلاغ"
-author: mhkarami97
 categories: [کوه]
 tags: [کوه, تهران]
-image: assets/img/32-chin_kalagh/25.jpg
+image: /assets/img/32-chin_kalagh/25.jpg
 description: "قله چین کلاغ"
-featured: true
-hidden: true
 rating: 3
 ---
 

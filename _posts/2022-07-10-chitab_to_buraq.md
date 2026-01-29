@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "تنگه چیتاوه به تنگه براق"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, شیراز, کهگیلویه و بویراحمد, تنگه, آبشار]
-image: assets/img/58-chitab_to_buraq/167.jpg
+image: /assets/img/58-chitab_to_buraq/167.jpg
 description: "تنگه چیتاوه به تنگه براق"
-featured: true
-hidden: true
 rating: 5
 ---
 

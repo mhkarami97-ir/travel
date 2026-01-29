@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "شهرستانک"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, قلعه, رودخانه, البرز]
-image: assets/img/96-shahrestanak/11.jpg
+image: /assets/img/96-shahrestanak/11.jpg
 description: "شهرستانک"
-featured: true
-hidden: true
 rating: 4
 ---
 

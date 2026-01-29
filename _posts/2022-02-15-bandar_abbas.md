@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "بندر عباس"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, دریا, هرمزگان]
-image: assets/img/35-bandar_abbas/12.jpg
+image: /assets/img/35-bandar_abbas/12.jpg
 description: "بندر عباس"
-featured: true
-hidden: true
 rating: 4
 ---
 

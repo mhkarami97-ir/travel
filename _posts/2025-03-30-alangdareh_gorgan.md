@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "گرگان و جنگل النگدره"
-author: mhkarami97
 categories: [جنگل]
 tags: [جنگل, تاریخی, گرگان, گلستان, شهر]
-image: assets/img/112-alangdareh_gorgan/03.jpg
+image: /assets/img/112-alangdareh_gorgan/03.jpg
 description: "گرگان و جنگل النگدره"
-featured: true
-hidden: true
 rating: 5
 ---
 

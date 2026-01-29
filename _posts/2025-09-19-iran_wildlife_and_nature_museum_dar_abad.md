@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "موزه طبیعت و حیات وحش دارآباد"
-author: mhkarami97
 categories: [موزه]
 tags: [شهر_گردی, حیوانات, تاریخی, موزه, تهران]
-image: assets/img/146-iran_wildlife_and_nature_museum_dar_abad/02.jpg
+image: /assets/img/146-iran_wildlife_and_nature_museum_dar_abad/02.jpg
 description: "موزه طبیعت و حیات وحش دارآباد"
-featured: true
-hidden: true
 rating: 4
 ---
 

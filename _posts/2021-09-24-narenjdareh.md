@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "تنگه نارنج دره و جنگل ارواح نوشهر"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, تنگه, مازندران, دریاچه]
-image: assets/img/10-narenjdareh/22.jpeg
+image: /assets/img/10-narenjdareh/22.jpeg
 description: "تنگه نارنج دره و جنگل ارواح نوشهر"
-featured: true
-hidden: true
 rating: 5
 ---
 

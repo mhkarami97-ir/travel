@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "دریاچه استخرگاه"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, گیلان, دریاچه]
-image: assets/img/43-estakhrgah/10.jpg
+image: /assets/img/43-estakhrgah/10.jpg
 description: "دریاچه استخرگاه"
-featured: true
-hidden: true
 rating: 4
 ---
 

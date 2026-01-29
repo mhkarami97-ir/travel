@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "گنبد کاووس"
-author: mhkarami97
 categories: [تاریخی]
 tags: [تاریخی, گلستان, شهر]
-image: assets/img/114-gonbad_e_kavus/11.jpg
+image: /assets/img/114-gonbad_e_kavus/11.jpg
 description: "گنبد کاووس"
-featured: true
-hidden: true
 rating: 3
 ---
 

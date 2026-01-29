@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "غار یخ مراد"
-author: mhkarami97
 categories: [غار]
 tags: [غار, البرز, یخ]
-image: assets/img/40-yakh_morad/18.jpg
+image: /assets/img/40-yakh_morad/18.jpg
 description: "غار یخ مراد"
-featured: true
-hidden: true
 rating: 4
 ---
 

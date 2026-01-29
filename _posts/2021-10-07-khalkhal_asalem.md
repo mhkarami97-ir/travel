@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "پیمایش خلخال به اسالم"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, اردبیل, جنگل, پیمایش]
-image: assets/img/11-khalkhal_asalem/01.jpg
+image: /assets/img/11-khalkhal_asalem/01.jpg
 description: "پیمایش خلخال به اسالم"
-featured: true
-hidden: true
 rating: 5
 ---
 

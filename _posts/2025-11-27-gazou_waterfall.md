@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آبشار گزو"
 description: "آبشار گزو"
-author: mhkarami97
 categories: [طبیعت]
 tags: [آبشار, جنگل, مازندران]
-image: assets/img/152-gazou_waterfall/53.jpg
-featured: true
-hidden: true
+image: /assets/img/152-gazou_waterfall/53.jpg
 rating: 5
 ---
 

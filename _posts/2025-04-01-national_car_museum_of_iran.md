@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "موزه خودروهای تاریخی ایران"
-author: mhkarami97
 categories: [شهر]
 tags: [شهر, تاریخی, موزه, تهران]
-image: assets/img/124-national_car_museum_of_iran/04.jpg
+image: /assets/img/124-national_car_museum_of_iran/04.jpg
 description: "موزه خودروهای تاریخی ایران"
-featured: true
-hidden: true
 rating: 4
 ---
 

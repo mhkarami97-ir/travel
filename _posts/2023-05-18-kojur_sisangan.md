@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "کجور به سیسنگان"
-author: mhkarami97
 categories: [جنگل]
 tags: [آبشار, جنگل, رودخانه, مازندران]
-image: assets/img/89-kojur_sisangan/76.jpg
+image: /assets/img/89-kojur_sisangan/76.jpg
 description: "کجور به سیسنگان"
-featured: true
-hidden: true
 rating: 5
 ---
 

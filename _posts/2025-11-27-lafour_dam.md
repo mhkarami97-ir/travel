@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "سد لفور"
 description: "سد لفور"
-author: mhkarami97
 categories: [طبیعت]
 tags: [سد, جنگل, مازندران]
-image: assets/img/151-lafour_dam/07.jpg
-featured: true
-hidden: true
+image: /assets/img/151-lafour_dam/07.jpg
 rating: 5
 ---
 

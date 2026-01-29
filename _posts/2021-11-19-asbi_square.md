@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "میدان اسبی"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, البرز]
-image: assets/img/19-asbi_square/01.jpg
+image: /assets/img/19-asbi_square/01.jpg
 description: "میدان اسبی"
-featured: true
-hidden: true
 rating: 3
 ---
 

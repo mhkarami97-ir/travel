@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آبشار مورود"
-author: mhkarami97
 categories: [آبشار]
 tags: [آبشار, رودخانه, البرز]
-image: assets/img/88-mowrud_waterfall/14.jpg
+image: /assets/img/88-mowrud_waterfall/14.jpg
 description: "آبشار مورود"
-featured: true
-hidden: true
 rating: 3
 ---
 

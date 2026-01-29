@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "دریاچه چیتگر"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, تهران, دریاچه]
-image: assets/img/23-chitgar_lake/01.jpg
+image: /assets/img/23-chitgar_lake/01.jpg
 description: "دریاچه چیتگر"
-featured: true
-hidden: true
 rating: 4
 ---
 

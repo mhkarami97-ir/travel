@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "منشورهای بازالتی دماوند"
 description: "منشورهای بازالتی دماوند"
-author: mhkarami97
 categories: [طبیعت]
 tags: [کوه, مازندران]
-image: assets/img/154-damavand_basaltic_prisms/3.jpg
-featured: true
-hidden: true
+image: /assets/img/154-damavand_basaltic_prisms/3.jpg
 rating: 3
 ---
 

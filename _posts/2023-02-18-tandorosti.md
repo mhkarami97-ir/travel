@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "پارک تندرستی"
-author: mhkarami97
 categories: [شهر]
 tags: [کرج, شهرگردی]
-image: assets/img/77-tandorosti/08.jpg
+image: /assets/img/77-tandorosti/08.jpg
 description: "پارک تندرستی"
-featured: true
-hidden: true
 rating: 3
 ---
 

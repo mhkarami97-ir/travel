@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آذربایجان شرقی و ارومیه"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, قلعه, جنگل, دریاچه, شهر, رودخانه, آذربایجان_شرقی]
-image: assets/img/97-east_azerbaijan/064.jpg
+image: /assets/img/97-east_azerbaijan/064.jpg
 description: "آذربایجان شرقی و ارومیه"
-featured: true
-hidden: true
 rating: 4
 ---
 

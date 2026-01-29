@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "پل ورسک"
 description: "پل ورسک"
-author: mhkarami97
 categories: [طبیعت]
 tags: [پل, مازندران]
-image: assets/img/150-veresk_bridge/12.jpg
-featured: true
-hidden: true
+image: /assets/img/150-veresk_bridge/12.jpg
 rating: 3
 ---
 

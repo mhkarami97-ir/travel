@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "خوزستان"
-author: mhkarami97
 categories: [شهر]
 tags: [تاریخی, شهر‌گردی, خوزستان]
-image: assets/img/93-khuzestan/017.jpg
+image: /assets/img/93-khuzestan/017.jpg
 description: "خوزستان"
-featured: true
-hidden: true
 rating: 2.5
 ---
 

@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "موزه مرمر"
-author: mhkarami97
 categories: [موزه]
 tags: [شهر_گردی, کاخ, تاریخی, موزه, تهران]
-image: assets/img/145-marmar_palace/01.jpg
+image: /assets/img/145-marmar_palace/01.jpg
 description: "موزه مرمر"
-featured: true
-hidden: true
 rating: 5
 ---
 

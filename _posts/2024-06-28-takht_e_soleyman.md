@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "تخت سلیمان و زندان سلیمان"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, قلعه, دریاچه, آذربایجان_غربی]
-image: assets/img/98-takht_e_soleyman/28.jpg
+image: /assets/img/98-takht_e_soleyman/28.jpg
 description: "آذربایجان غربی"
-featured: true
-hidden: true
 rating: 4
 ---
 

@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "پارک آبشار تهران"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, تهران]
-image: assets/img/54-tehran_waterfall_park/23.jpg
+image: /assets/img/54-tehran_waterfall_park/23.jpg
 description: "پارک آبشار تهران"
-featured: true
-hidden: true
 rating: 4
 ---
 

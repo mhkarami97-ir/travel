@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "سلین به هجیج"
-author: mhkarami97
 categories: [رودخانه]
 tags: [کوه, رودخانه, چشمه, کردستان]
-image: assets/img/127-selin_hajij/44.jpg
+image: /assets/img/127-selin_hajij/44.jpg
 description: "سلین به هجیج"
-featured: true
-hidden: true
 rating: 5
 ---
 

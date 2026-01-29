@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "دشت دریاسر"
-author: mhkarami97
 categories: [دشت]
 tags: [دشت, رودخانه, جنگل, مازندران]
-image: assets/img/126-daryasar_plain/29.jpg
+image: /assets/img/126-daryasar_plain/29.jpg
 description: "دشت دریاسر"
-featured: true
-hidden: true
 rating: 4
 ---
 

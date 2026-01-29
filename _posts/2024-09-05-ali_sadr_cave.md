@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "غار علیصدر"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, غار, همدان]
-image: assets/img/104-ali_sadr_cave/13.jpg
+image: /assets/img/104-ali_sadr_cave/13.jpg
 description: "همدان"
-featured: true
-hidden: true
 rating: 4
 ---
 

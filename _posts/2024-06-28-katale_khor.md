@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "غار کتله‌خور"
-author: mhkarami97
 categories: [غار]
 tags: [طبیعت, غار, زنجان]
-image: assets/img/99-katale_khor/24.jpg
+image: /assets/img/99-katale_khor/24.jpg
 description: "زنجان"
-featured: true
-hidden: true
 rating: 4
 ---
 

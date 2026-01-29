@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "کویر ابوزیدآباد، چال عروس، شهر زیرزمینی اویی نوش‌آباد"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, کویر, اصفهان]
-image: assets/img/29-abouzeidabad/40.jpg
+image: /assets/img/29-abouzeidabad/40.jpg
 description: "کویر ابوزیدآباد، چال عروس، شهر زیرزمینی اویی نوش‌آباد"
-featured: true
-hidden: true
 rating: 5
 ---
 

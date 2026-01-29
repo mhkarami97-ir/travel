@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "برج آزادی"
-author: mhkarami97
 categories: [شهر]
 tags: [شهر, میدان, برج, تهران]
-image: assets/img/123-azadi/29.jpg
+image: /assets/img/123-azadi/29.jpg
 description: "برج آزادی"
-featured: true
-hidden: true
 rating: 4
 ---
 

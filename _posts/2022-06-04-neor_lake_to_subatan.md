@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "دریاچه نئور به سوباتان"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, اردبیل, دریاچه, آبشار, پیمایش]
-image: assets/img/55-neor_lake_to_subatan/108.jpg
+image: /assets/img/55-neor_lake_to_subatan/108.jpg
 description: "دریاچه نئور به سوباتان"
-featured: true
-hidden: true
 rating: 5
 ---
 

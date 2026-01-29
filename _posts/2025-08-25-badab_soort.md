@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "باداب سورت"
-author: mhkarami97
 categories: [شهر]
 tags: [دشت, چشمه, مازندران]
-image: assets/img/142-badab_soort/08.jpg
+image: /assets/img/142-badab_soort/08.jpg
 description: "باداب سورت"
-featured: true
-hidden: true
 rating: 4
 ---
 

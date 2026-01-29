@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آبشار سپهسالار"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, البرز, آبشار]
-image: assets/img/49-sepahsalar/45.jpg
+image: /assets/img/49-sepahsalar/45.jpg
 description: "آبشار سپهسالار"
-featured: true
-hidden: true
 rating: 4
 ---
 

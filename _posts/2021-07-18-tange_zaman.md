@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "تنگه پلور/زمان"
-author: mhk
 categories: [طبیعت]
 tags: [طبیعت, تنگه, مازندران]
-image: assets/img/02-tangeZaman/06.jpeg
+image: /assets/img/02-tangeZaman/06.jpeg
 description: "تنگه زمان در شهرستان پلور"
-featured: true
-hidden: true
 rating: 4.5
 ---
 

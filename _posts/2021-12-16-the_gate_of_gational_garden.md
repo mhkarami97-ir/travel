@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "میدان مشق، کاخ گلستان، موزه ملی، پارک شهر"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, تهران]
-image: assets/img/27-the_gate_of_gational_garden/068.jpg
+image: /assets/img/27-the_gate_of_gational_garden/068.jpg
 description: "میدان مشق، کاخ گلستان، موزه ملی، پارک شهر"
-featured: true
-hidden: true
 rating: 4
 ---
 

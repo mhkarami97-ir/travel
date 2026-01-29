@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "خط ساحلی بندرعباس به بندر بوشهر"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, هرمزگان, بوشهر, دریا]
-image: assets/img/42-bandar_abbas_to_bandar_bushehr/175.jpg
+image: /assets/img/42-bandar_abbas_to_bandar_bushehr/175.jpg
 description: "خط ساحلی بندرعباس به بندر بوشهر"
-featured: true
-hidden: true
 rating: 4
 ---
 

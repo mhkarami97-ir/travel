@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "باغ لاله‌های آسارا"
-author: mhkarami97
 categories: [شهرگردی]
 tags: [شهرگردی, باغ, البرز]
-image: assets/img/87-laleh_gardern/24.jpg
+image: /assets/img/87-laleh_gardern/24.jpg
 description: "باغ لاله‌های آسارا"
-featured: true
-hidden: true
 rating: 3
 ---
 

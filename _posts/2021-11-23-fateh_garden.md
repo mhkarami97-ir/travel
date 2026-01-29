@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "باغ فاتح"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, البرز]
-image: assets/img/20-fateh_garden/01.jpg
+image: /assets/img/20-fateh_garden/01.jpg
 description: "باغ فاتح"
-featured: true
-hidden: true
 rating: 3
 ---
 

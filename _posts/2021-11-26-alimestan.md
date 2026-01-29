@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "جنگل الیمستان"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, جنگل, مازندران]
-image: assets/img/21-alimestan/01.jpg
+image: /assets/img/21-alimestan/01.jpg
 description: "جنگل الیمستان"
-featured: true
-hidden: true
 rating: 5
 ---
 

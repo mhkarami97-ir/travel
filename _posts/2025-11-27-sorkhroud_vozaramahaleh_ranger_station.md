@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "منطقه حفاظت شده پرندگان سرخ‌رود"
 description: "منطقه حفاظت شده پرندگان سرخ‌رود"
-author: mhkarami97
 categories: [طبیعت]
 tags: [تالاب, پرنده پ, شالیکاری, مازندران]
-image: assets/img/153-sorkhroud_vozaramahaleh_ranger_station/18.jpg
-featured: true
-hidden: true
+image: /assets/img/153-sorkhroud_vozaramahaleh_ranger_station/18.jpg
 rating: 4
 ---
 

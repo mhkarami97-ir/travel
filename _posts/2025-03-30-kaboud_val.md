@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "آبشار کبودوال"
-author: mhkarami97
 categories: [آبشار]
 tags: [جنگل, رودخانه, گلستان, آبشار]
-image: assets/img/115-kaboud/09.jpg
+image: /assets/img/115-kaboud/09.jpg
 description: "آبشار کبودوال"
-featured: true
-hidden: true
 rating: 4
 ---
 

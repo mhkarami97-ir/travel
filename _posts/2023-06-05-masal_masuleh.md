@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "ماسال به ماسوله"
-author: mhkarami97
 categories: [جنگل]
 tags: [آبشار, جنگل, رودخانه, گیلان]
-image: assets/img/90-masal_masuleh/088.jpg
+image: /assets/img/90-masal_masuleh/088.jpg
 description: "ماسال به ماسوله"
-featured: true
-hidden: true
 rating: 5
 ---
 

@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "پارک ایران کوچک"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [شهر‌گردی, البرز]
-image: assets/img/16-little_iran_park/01.jpg
+image: /assets/img/16-little_iran_park/01.jpg
 description: "پارک ایران کوچک"
-featured: true
-hidden: true
 rating: 3.5
 ---
 

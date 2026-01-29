@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "باغ گل‌ها"
-author: mhkarami97
 categories: [شهر‌گردی]
 tags: [البرز, باغ, پارک]
-image: assets/img/83-flowers_garden/11.jpg
+image: /assets/img/83-flowers_garden/11.jpg
 description: "باغ لاله‌ها"
-featured: true
-hidden: true
 rating: 3.5
 ---
 

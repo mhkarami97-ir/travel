@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "نارنج‌بن در شیرگاه"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, مازندران]
-image: assets/img/07-narenjben/01.jpg
+image: /assets/img/07-narenjben/01.jpg
 description: "نارنج‌بن در شیرگاه"
-featured: true
-hidden: true
 rating: 5
 ---
 

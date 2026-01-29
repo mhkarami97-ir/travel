@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "خراسان شمالی"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, کوه, دشت, شهر]
-image: assets/img/116-khorasan_shomali/21.jpg
+image: /assets/img/116-khorasan_shomali/21.jpg
 description: "خراسان شمالی"
-featured: true
-hidden: true
 rating: 3
 ---
 

@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "کردستان"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, کردستان, غار, دریاچه, تاریخی, روستا]
-image: assets/img/47-kurdistan/222.jpg
+image: /assets/img/47-kurdistan/222.jpg
 description: "کردستان"
-featured: true
-hidden: true
 rating: 5
 ---
 

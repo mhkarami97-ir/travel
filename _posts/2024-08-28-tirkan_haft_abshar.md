@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "هفت آبشار تیرکن"
-author: mhkarami97
 categories: [طبیعت]
 tags: [طبیعت, جنگل, آبشار, مازندران]
-image: assets/img/100-tirkan_haft_abshar/24.jpg
+image: /assets/img/100-tirkan_haft_abshar/24.jpg
 description: "مازندران"
-featured: true
-hidden: true
 rating: 3.5
 ---
 

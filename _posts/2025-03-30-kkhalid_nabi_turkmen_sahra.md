@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "ترکمن صحرا و خالد نبی"
-author: mhkarami97
 categories: [دشت]
 tags: [دشت, گلستان, تاریخی]
-image: assets/img/117-kkhalid_nabi_turkmen_sahra/08.jpg
+image: /assets/img/117-kkhalid_nabi_turkmen_sahra/08.jpg
 description: "ترکمن صحرا و خالد نبی"
-featured: true
-hidden: true
 rating: 5
 ---
 

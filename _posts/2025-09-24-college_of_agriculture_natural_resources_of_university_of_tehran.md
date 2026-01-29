@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "باغ گیاه‌شناسی دانشکده کشاورزی"
-author: mhkarami97
 categories: [باغ]
 tags: [دانشگاه, طبیعت, باغ, البرز]
-image: assets/img/147-college_of_agriculture_natural_resources_of_university_of_tehran/27.jpg
+image: /assets/img/147-college_of_agriculture_natural_resources_of_university_of_tehran/27.jpg
 description: "باغ گیاه‌شناسی دانشکده کشاورزی"
-featured: true
-hidden: true
 rating: 5
 ---
 
