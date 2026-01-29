@@ -1,7 +1,7 @@
 ---
 title: "باغ ملی گیاه شناسی ایران"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, تهران]
+categories: [شهر_گردی]
+tags: [شهر_گردی, تهران]
 image: /assets/img/15-national_botanical_garden_of_iran/01.jpg
 description: "باغ ملی گیاه شناسی ایران"
 rating: 4

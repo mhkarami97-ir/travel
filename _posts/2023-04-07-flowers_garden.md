@@ -1,6 +1,6 @@
 ---
 title: "باغ گل‌ها"
-categories: [شهر‌گردی]
+categories: [شهر_گردی]
 tags: [البرز, باغ, پارک]
 image: /assets/img/83-flowers_garden/11.jpg
 description: "باغ لاله‌ها"

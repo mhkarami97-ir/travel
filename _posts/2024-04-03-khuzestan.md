@@ -1,7 +1,7 @@
 ---
 title: "خوزستان"
 categories: [شهر]
-tags: [تاریخی, شهر‌گردی, خوزستان]
+tags: [تاریخی, شهر_گردی, خوزستان]
 image: /assets/img/93-khuzestan/017.jpg
 description: "خوزستان"
 rating: 2.5

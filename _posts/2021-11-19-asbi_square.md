@@ -1,7 +1,7 @@
 ---
 title: "میدان اسبی"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, البرز]
+categories: [شهر_گردی]
+tags: [شهر_گردی, البرز]
 image: /assets/img/19-asbi_square/01.jpg
 description: "میدان اسبی"
 rating: 3

@@ -1,7 +1,7 @@
 ---
 title: "دریاچه چیتگر"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, تهران, دریاچه]
+categories: [شهر_گردی]
+tags: [شهر_گردی, تهران, دریاچه]
 image: /assets/img/23-chitgar_lake/01.jpg
 description: "دریاچه چیتگر"
 rating: 4

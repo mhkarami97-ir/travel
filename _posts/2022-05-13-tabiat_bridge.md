@@ -1,7 +1,7 @@
 ---
 title: "پل طبیعت و پارک آب‌و‌آتش"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, تهران]
+categories: [شهر_گردی]
+tags: [شهر_گردی, تهران]
 image: /assets/img/50-tabiat_bridge/36.jpg
 description: "پل طبیعت و پارک آب‌و‌آتش"
 rating: 4

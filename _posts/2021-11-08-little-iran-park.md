@@ -1,7 +1,7 @@
 ---
 title: "پارک ایران کوچک"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, البرز]
+categories: [شهر_گردی]
+tags: [شهر_گردی, البرز]
 image: /assets/img/16-little_iran_park/01.jpg
 description: "پارک ایران کوچک"
 rating: 3.5

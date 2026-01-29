@@ -1,7 +1,7 @@
 ---
 title: "باغ ملی گیاه شناسی ایران سفر دوم"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, تهران]
+categories: [شهر_گردی]
+tags: [شهر_گردی, تهران]
 image: /assets/img/148-national_botanical_garden_of_iran/54.jpg
 description: "باغ ملی گیاه شناسی ایران سفر دوم"
 rating: 5

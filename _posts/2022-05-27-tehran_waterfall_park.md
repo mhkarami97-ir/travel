@@ -1,7 +1,7 @@
 ---
 title: "پارک آبشار تهران"
-categories: [شهر‌گردی]
-tags: [شهر‌گردی, تهران]
+categories: [شهر_گردی]
+tags: [شهر_گردی, تهران]
 image: /assets/img/54-tehran_waterfall_park/23.jpg
 description: "پارک آبشار تهران"
 rating: 4
