@@ -450,8 +450,6 @@ rating: 4
 
 `لنج سازی بندر کنگ` : [map location](https://www.google.com/maps/place/%D8%AC%D8%AF%D8%A7%D9%81%E2%80%AD/@26.5979448,54.9280034,14z/data=!4m13!1m7!3m6!1s0x3e582fc4892bd0b1:0xd586b4c9f1238845!2sBandar+Kong,+Hormozgan+Province,+Iran!3b1!8m2!3d26.6065509!4d54.944665!3m4!1s0x3e58255e62c07e45:0x5b867919379ffcac!8m2!3d26.6153381!4d54.9656579)  
 
-`بندر لنگه` : [map location](/Bandar+Lengeh,+Hormozgan+Province,+Iran/@26.5640614,54.8558193,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x3e582fc4892bd0b1:0xd586b4c9f1238845!2sBandar+Kong,+Hormozgan+Province,+Iran!3b1!8m2!3d26.6065509!4d54.944665!3m4!1s0x3e5831fa9c39d6e5:0x6e0357400b1cc10!8m2!3d26.562783!4d54.8886824)  
-
 `بندر مغویه` : [map location](https://www.google.com/maps/place/Bandar+Moghuyeh,+Hormozgan+Province,+Iran/@26.6047591,54.5018863,16z/data=!3m1!4b1!4m13!1m7!3m6!1s0x3e582fc4892bd0b1:0xd586b4c9f1238845!2sBandar+Kong,+Hormozgan+Province,+Iran!3b1!8m2!3d26.6065509!4d54.944665!3m4!1s0x3e59df397a96162d:0x44c9d42c86e0b626!8m2!3d26.6034356!4d54.5081091)  
 
 `بندر چارک` : [map location](https://www.google.com/maps/place/Bandar+e+Charak,+Hormozgan+Province,+Iran/@26.7326936,54.2624616,15z/data=!3m1!4b1!4m13!1m7!3m6!1s0x3e582fc4892bd0b1:0xd586b4c9f1238845!2sBandar+Kong,+Hormozgan+Province,+Iran!3b1!8m2!3d26.6065509!4d54.944665!3m4!1s0x3e57454e0e854573:0x284f3fe261f0219d!8m2!3d26.7337293!4d54.2675042)  

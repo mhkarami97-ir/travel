@@ -45,7 +45,6 @@ rating: 4
 
 ## بیشتر
 [عکس های منطقه](https://www.instagram.com/p/CeFneNgDb7d/)  
-[فیلم منطقه]()  
 
 ---
 

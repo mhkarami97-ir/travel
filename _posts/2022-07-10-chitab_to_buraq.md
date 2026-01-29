@@ -281,12 +281,6 @@ rating: 5
 
 ---
 
-## بیشتر
-[عکس های منطقه]()  
-[فیلم منطقه]()  
-
----
-
 ## موقعیت‌ها
 `آبشار و دریاچه کوه گل` : [map location](https://www.google.com/maps/place/Kuh+Gol+Lake/@30.8355766,51.5390298,17z/data=!3m1!4b1!4m5!3m4!1s0x3fba0840cac222ed:0xd098cae6f1d9a6a7!8m2!3d30.8356012!4d51.5411308)  
 `تنگه چیتاوه` : [map location](https://www.google.com/maps/place/%D8%AA%D9%86%DA%AF%D9%87+%DA%86%DB%8C%D8%AA%D8%A7%D9%88%D9%87+tange+Cheetaveh%E2%80%AD/@30.7288603,51.3013696,17z/data=!3m1!4b1!4m5!3m4!1s0x3fb75537a9f9cdb9:0xd7a93b7831cf1a46!8m2!3d30.7288603!4d51.3035583)  
