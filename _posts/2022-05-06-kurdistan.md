@@ -493,7 +493,7 @@ rating: 5
 
 `باغ گل` : [map location](https://www.google.com/maps/place/35%C2%B032'25.3%22N+46%C2%B005'55.3%22E/@35.540353,46.0980814,362m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0xd7cac797852ebffb!7e2!8m2!3d35.5403531!4d46.0987004)  
 
-`محل کمپ چنگلی` : [map location](https://www.google.com/maps/place/35%C2%B032'40.1%22N+46%C2%B005'25.5%22E/@35.5442543,46.0897325,176m/data=!3m1!1e3!4m6!3m5!1s0x0:0x43355541c72b1cb3!7e2!8m2!3d35.5444726!4d46.09041)  
+`محل کمپ جنگلی` : [map location](https://www.google.com/maps/place/35%C2%B032'40.1%22N+46%C2%B005'25.5%22E/@35.5442543,46.0897325,176m/data=!3m1!1e3!4m6!3m5!1s0x0:0x43355541c72b1cb3!7e2!8m2!3d35.5444726!4d46.09041)  
 
 `روستا سردوش` : [map location](https://www.google.com/maps/place/Serdo%C5%9F,+Kurdistan+Province,+Iran/@35.5211544,46.0687585,724m/data=!3m2!1e3!4b1!4m5!3m4!1s0x3fff488dddfbfc15:0x7a3ea1cbee764d10!8m2!3d35.5218531!4d46.071226)  
 
