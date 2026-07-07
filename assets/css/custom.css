@@ -120,3 +120,26 @@ div[class^='language-'] .code-header span {
   flex-direction: row-reverse;
   justify-content: flex-end;
 }
+
+.popup.img-link {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.popup.img-link img {
+  display: block;
+  max-width: 50%;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 6px;
+}
+
+@media (max-width: 576px) {
+  .popup.img-link img {
+    max-width: 80%;
+  }
+}
