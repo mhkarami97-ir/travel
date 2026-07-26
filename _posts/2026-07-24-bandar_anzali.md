@@ -17,7 +17,7 @@ rating: 3
 خرید در مجتمع تجاری انزلی
 
 ## اتفاقات
-
+-
 
 ## تعامل با افراد
 فروشندگان در مجتمع تجاری که از شهرهای مختلف و با زبان‌های مختلف بودند.  
@@ -27,33 +27,36 @@ rating: 3
 نسبت به دیگر مسیر‌های شمال مناسب‌تر بود و سرعتگیر و همچنین چاله کمتری داشت
 
 ## هزینه‌ها
-
+ورودی مجتمع به ازای هر ماشین 60 هزار تومان است.  
 
 ## رستوران
-
+رستوران آرش مال در طبقه آخر. کیفیت غذا خوب بود و پیتزا خوشمزه بود. قیمت‌ها کم گران بود.
 
 ## زمانبندی
- - `جزئیات زمانبندی` : 
- - `زمان رفت` : 
- - `زمان برگشت` : 
+ - `جزئیات زمانبندی` : با توجه به هر فرد چندین ساعت زمان برای خرید
+ - `زمان رفت` : -
+ - `زمان برگشت` : -
 
 ## موقعیت‌ها
 [موقعیت](https://www.google.com/maps/place/%D9%88%D8%B1%D9%88%D8%AF%DB%8C+%D8%A7%D9%88%D9%84+%D9%85%D9%86%D8%B7%D9%82%D9%87+%D8%A2%D8%B2%D8%A7%D8%AF+%D8%A7%D9%86%D8%B2%D9%84%DB%8C+%D8%AF%D8%B1%D8%A8+%D8%A7%D8%B5%D9%84%DB%8C%E2%80%AD/@37.4546957,49.6640003,15.61z/data=!4m15!1m8!3m7!1s0x3ff5620d43f15675:0x41dd40f9931cfbf6!2sRasht,+Gilan+Province,+Iran!3b1!8m2!3d37.2712671!4d49.5920736!16zL20vMDNqeDF3!3m5!1s0x401fe5145caf83bf:0x7633cbb48c7054e0!8m2!3d37.4521384!4d49.6720893!16s%2Fg%2F11l2fmkkkv?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D)  
 
 ## نکات
+قیمت‌ها در طبقات بالاتر مناسبت‌تر از قیمت در طبقات پایین هر پاساژ است.  
+ساحل مجتمع در شب زیبا و چراغانی است.  
+موتورها در پارک نزدیک ساحل زیاد رفت‌آمد می‌کنند که باعث ایجاد مزاحمت برای افراد پیاده می‌شود.  
 
 ## عکس‌ها
 
-![farsban](/assets/img/161-bandar_anzali/01.jpg)
-![farsban](/assets/img/161-bandar_anzali/02.jpg)
-![farsban](/assets/img/161-bandar_anzali/03.jpg)
-![farsban](/assets/img/161-bandar_anzali/04.jpg)
-![farsban](/assets/img/161-bandar_anzali/05.jpg)
-![farsban](/assets/img/161-bandar_anzali/06.jpg)
-![farsban](/assets/img/161-bandar_anzali/07.jpg)
-![farsban](/assets/img/161-bandar_anzali/08.jpg)
-![farsban](/assets/img/161-bandar_anzali/09.jpg)
-![farsban](/assets/img/161-bandar_anzali/10.jpg)
-![farsban](/assets/img/161-bandar_anzali/11.jpg)
-![farsban](/assets/img/161-bandar_anzali/12.jpg)
-![farsban](/assets/img/161-bandar_anzali/13.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/01.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/02.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/03.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/04.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/05.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/06.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/07.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/08.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/09.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/10.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/11.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/12.jpg)
+![bandar_anzali](/assets/img/161-bandar_anzali/13.jpg)

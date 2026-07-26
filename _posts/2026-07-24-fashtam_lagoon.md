@@ -12,46 +12,52 @@ rating: 5
 این مرداب دارای ماهیت فصلی است و در فصل پاییز و زمستان به بیشترین میزان آب‌گیری می‌رسد و سطح آن به‌طور کامل پوشیده از آب می‌شود؛ در این دوره، انعکاس رنگ‌های زرد و نارنجی پوشش گیاهی اطراف، جلوه‌ای چشمگیر به منظره می‌بخشد. در فصل بهار و تابستان، با کاهش سطح آب، بستر مرداب با رویش گسترده نیلوفرهای آبی پوشیده می‌شود که ترکیب رنگ سبز پوشش گیاهی با گل‌های صورتی نیلوفر، یکی از زیباترین مناظر تالابی منطقه را شکل می‌دهد. این زیستگاه علاوه بر ارزش طبیعی، محل حضور پرندگان کوچک، حشرات تالابی و گونه‌های وابسته به زیستگاه‌های مرطوب نیز هست که پویایی اکولوژیکی آن را افزایش می‌دهد.  
 
 ## هدف
-
+استراحت در مسیر برگشت
 
 ## اتفاقات
-
+پرندگان زیاد و مرداب بسیار زیبا
 
 ## تعامل با افراد
-
+-
 
 ## مسیر
-
+خروجی با فاصله 5 دقیقه از اتوبان رشت قزوین  
+خود جاده فرعی نیز بسیار مناسب و زیبا است
 
 ## هزینه‌ها
-
+ندارد
 
 ## رستوران
-
+ندارد
 
 ## زمانبندی
- - `جزئیات زمانبندی` : 
- - `زمان رفت` : 
- - `زمان برگشت` : 
+ - `جزئیات زمانبندی` : با توجه به اینکه بخواهید بمانید یا استراحت کنید متفاوت است.
+ - `زمان رفت` : عصر نزدیک غروب
+ - `زمان برگشت` : عصر نزدیک غروب
 
 ## موقعیت‌ها
 [موقعیت](https://www.google.com/maps/place/Fashtam+lagoon/@37.1490808,49.6501909,15.61z/data=!4m15!1m8!3m7!1s0x3ff5620d43f15675:0x41dd40f9931cfbf6!2sRasht,+Gilan+Province,+Iran!3b1!8m2!3d37.2712671!4d49.5920736!16zL20vMDNqeDF3!3m5!1s0x3ff56912e83ef0d3:0x6b537fe405c47d34!8m2!3d37.1514231!4d49.6502789!16s%2Fg%2F11ppn60cvb?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D)  
 
 ## نکات
+تالابی بسیار زیبا و تمیز با مسیری بسیار نزدیک  
+در این تالاب می‌توانید همان گل‌های صورتی که در تالاب انزلی وجود دارند را مشاهده کنید.  
+دقت کنید تالاب فصلی است و سطح آب در فصول مختلف متفاوت است.  
+برای کمپ و شب‌بانی تالاب بسیار مناسب است و جای زیادی برای کمپ دارد.  
+پرندگان زیادی در داخل تالاب زندگی می‌کنند
 
 ## عکس‌ها
 
-![farsban](/assets/img/162-fashtam_lagoon/01.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/02.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/03.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/04.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/05.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/06.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/07.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/08.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/09.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/10.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/11.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/12.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/13.jpg)
-![farsban](/assets/img/162-fashtam_lagoon/14.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/01.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/02.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/03.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/04.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/05.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/06.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/07.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/08.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/09.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/10.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/11.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/12.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/13.jpg)
+![fashtam_lagoon](/assets/img/162-fashtam_lagoon/14.jpg)
