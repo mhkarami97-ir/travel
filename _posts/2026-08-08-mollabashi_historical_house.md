@@ -3,7 +3,7 @@ title: "خانه تاریخی ملاباشی"
 description: "خانه تاریخی ملاباشی"
 categories: [اصفهان, تاریخی, شهر]
 tags: [اصفهان, تاریخی, شهر]
-image: /assets/img/178-mollabashi_historical_house/16.jpg
+image: /assets/img/178-mollabashi_historical_house/23.jpg
 rating: 4
 ---
 

@@ -3,7 +3,7 @@ title: "تخت فولاد اصفهان"
 description: "تخت فولاد اصفهان"
 categories: [اصفهان, تاریخی, شهر]
 tags: [اصفهان, تاریخی, شهر]
-image: /assets/img/165-takht_e_foulad/19.jpg
+image: /assets/img/165-takht_e_foulad/50.jpg
 rating: 4
 ---
 
