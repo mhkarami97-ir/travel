@@ -1,0 +1,114 @@
+---
+title: "مسجد جامع اصفهان"
+description: "مسجد جامع اصفهان"
+categories: [اصفهان, تاریخی, شهر]
+tags: [اصفهان, تاریخی, شهر]
+image: /assets/img/176-jame_mosque_of_isfahan/54.jpg
+rating: 4
+---
+
+## توضیحات
+
+
+## هدف
+
+
+## اتفاقات
+
+
+## تعامل با افراد
+
+
+## مسیر
+
+
+## هزینه‌ها
+
+
+## رستوران
+
+
+## زمانبندی
+ - `جزئیات زمانبندی` : 
+ - `زمان رفت` : -
+ - `زمان برگشت` : 
+
+## موقعیت‌ها
+[موقعیت](https://www.google.com/maps/place/Jame'+Mosque+of+Isfahan/@32.6688677,51.6830494,17.67z/data=!4m6!3m5!1s0x3fbc4a0acf002bcf:0x2ab8c5bef81f4ce8!8m2!3d32.669686!4d51.6851455!16s%2Fm%2F027ym_f?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D)  
+
+## نکات
+
+
+## عکس‌ها
+
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/01.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/02.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/03.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/04.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/05.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/06.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/07.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/08.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/09.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/10.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/11.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/12.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/13.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/14.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/15.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/16.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/17.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/18.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/19.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/20.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/21.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/22.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/23.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/24.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/25.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/26.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/27.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/28.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/29.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/30.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/31.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/32.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/33.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/34.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/35.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/36.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/37.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/38.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/39.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/40.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/41.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/42.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/43.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/44.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/45.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/46.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/47.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/48.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/49.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/50.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/51.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/52.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/53.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/54.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/55.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/56.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/57.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/58.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/59.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/60.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/61.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/62.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/63.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/64.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/65.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/66.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/67.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/68.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/69.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/70.jpg)
+![jame_mosque_of_isfahan](/assets/img/176-jame_mosque_of_isfahan/71.jpg)
