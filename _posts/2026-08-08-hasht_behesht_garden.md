@@ -3,7 +3,7 @@ title: "کاخ هشت بهشت اصفهان"
 description: "کاخ هشت بهشت اصفهان"
 categories: [اصفهان, تاریخی, شهر]
 tags: [اصفهان, تاریخی, شهر]
-image: /assets/img/168-hasht_behesht_garden/19.jpg
+image: /assets/img/168-hasht_behesht_garden/14.jpg
 rating: 4
 ---
 
