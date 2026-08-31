@@ -143,3 +143,9 @@ div[class^='language-'] .code-header span {
     max-width: 80%;
   }
 }
+
+#sidebar .sidebar-bottom>a:not(:last-child) {
+  margin-left: 0.8rem;
+  margin-right: 0;
+}
+
