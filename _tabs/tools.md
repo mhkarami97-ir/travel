@@ -1,5 +1,5 @@
 ---
-title: راهنما وسایل کوهنوردی و طبیعت‌گردی
+title: راهنما وسایل
 icon: fas fa-bookmark
 order: 10
 ---
